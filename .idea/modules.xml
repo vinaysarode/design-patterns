@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/adapter-design-patterm/adapter-design-patterm.iml" filepath="$PROJECT_DIR$/adapter-design-patterm/adapter-design-patterm.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/design-patterns_clome.iml" filepath="$PROJECT_DIR$/.idea/design-patterns_clome.iml" />
     </modules>
   </component>
