@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="adapter-design-patterm" />
+        <module name="chainings" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="adapter-design-patterm" target="1.5" />
+      <module name="chainings" target="8" />
       <module name="design-patterns_clome" target="1.5" />
     </bytecodeTargetLevel>
   </component>
